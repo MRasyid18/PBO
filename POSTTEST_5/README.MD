@@ -1,4 +1,4 @@
-3. Interface — IBisaDiSewa
+Interface — IBisaDiSewa
 Berisi 2 method:
 
 cekKetersediaan() — mengecek apakah kamar bisa disewa
